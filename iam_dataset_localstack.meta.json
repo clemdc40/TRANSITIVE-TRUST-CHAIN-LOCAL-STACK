@@ -1,0 +1,86 @@
+{
+  "seed": 1337,
+  "generated_at_ms": 1767226638844,
+  "controlled_user": "Bob",
+  "num_noise_users": 80,
+  "num_noise_roles": 60,
+  "avg_out_degree": 2,
+  "missing_permission_rate": 0.18,
+  "num_ttca_chains": 8,
+  "ttca_hops_range": [
+    2,
+    8
+  ],
+  "critical_role_names": [
+    "Role_1e5ab1",
+    "Role_3559f0",
+    "Role_7c4f47",
+    "Role_7cbe55",
+    "Role_b2dd83",
+    "Role_b93efd",
+    "Role_c366e3",
+    "Role_cb11bc"
+  ],
+  "injected_chains": [
+    [
+      "Bob",
+      "Role_dec26d",
+      "Role_7cbe55"
+    ],
+    [
+      "Bob",
+      "Role_4cad12",
+      "Role_7c4f47"
+    ],
+    [
+      "Bob",
+      "Role_b8c4d5",
+      "Role_3559f0"
+    ],
+    [
+      "Bob",
+      "Role_00ec0c",
+      "Role_9d2b2d",
+      "Role_b2dd83",
+      "Role_c366e3",
+      "Role_87d1bd",
+      "Role_1e5ab1"
+    ],
+    [
+      "Bob",
+      "Role_3559f0",
+      "Role_9776c7",
+      "Role_d60dcf",
+      "Role_4cf2de",
+      "Role_2450ff",
+      "Role_4a66d2",
+      "Role_7cbe55"
+    ],
+    [
+      "Bob",
+      "Role_cb11bc",
+      "Role_c366e3",
+      "Role_e0d972",
+      "Role_f4adcf",
+      "Role_553ffc",
+      "Role_beaadb",
+      "Role_ebfafe",
+      "Role_b93efd"
+    ],
+    [
+      "Bob",
+      "Role_f4adcf",
+      "Role_1e5ab1"
+    ],
+    [
+      "Bob",
+      "Role_4cad12",
+      "Role_4b027c",
+      "Role_cb11bc",
+      "Role_2450ff",
+      "Role_3d23f5",
+      "Role_2c8069",
+      "Role_b2dd83"
+    ]
+  ]
+}

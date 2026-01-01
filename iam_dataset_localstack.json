@@ -1,0 +1,1643 @@
+{
+  "principals": [
+    {
+      "id": "User_e93084",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_4e8277",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_9a80eb",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_3674c7",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_74caaf",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_29cae2",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7819f7",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_c33149",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_b4aa43",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_a66f0a",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_5b69c0",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ee29bd",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_80f118",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_44c682",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_79829f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_e6978c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_73fe51",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_469996",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_100736",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_19b13f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_745012",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_90db1b",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_9dc653",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_26e0cc",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7c5587",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_247a8d",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_95cea4",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_8e4ebb",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_feb2ec",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_c92cb9",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_0aaf38",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7b4ec6",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_19e569",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_a84479",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_d53bfe",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7ec736",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_f9b2f7",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_0f0b22",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_fd2737",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_9b8f25",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_528241",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_83c5c9",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7cfcfe",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_89b927",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7e5b2c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_98808b",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_383b44",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_fbbce7",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_421d83",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_58f50a",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "Bob",
+      "type": "User",
+      "controlled": true
+    },
+    {
+      "id": "User_db8c3c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_8be6f4",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ee2c81",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_f78bbe",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_cdafb6",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_fea541",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_bdc08e",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ded469",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_eb6bd9",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_bcbcec",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_4fbbb1",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_aaadba",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_aa7cc5",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_1213c4",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ecdc9d",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_de9a3d",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_717edf",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_4adc3f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_c84ad9",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_3af70d",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_e6ecbd",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_4698e3",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ca5b1f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7c6bd8",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_3cb8e2",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_51b4be",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_c2cebd",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_eea03f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_eedea0",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_b3aefb",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_abea09",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_b23fdd",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_c341ce",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_c5e15b",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_7ca41c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_e7c0ee",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_e1c2e8",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_6c6f0c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_68a7a1",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_a1abd8",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_3ae414",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_feb34d",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_1440fb",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_a2e71f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ac7bc7",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_f2bf1f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_808f0d",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_9afddc",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_f1feaa",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_035d34",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_c8784c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_d5b1ea",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_324df3",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_00576e",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_a9bea8",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_44cfeb",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_e1e2c6",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_de57fe",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_bcb07c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_e9dec3",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_8b014f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_86bad8",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_9f2881",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_75cf52",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_479beb",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_feecb6",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_88ba2e",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_53ffae",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_1d1fdc",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_dbd76f",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_eef8af",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_0dde98",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_9d5fb8",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ac530e",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_6064a2",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_105dc6",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_9b0e6a",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_dccdbe",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_ebaa6c",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "User_db68af",
+      "type": "User",
+      "controlled": false
+    },
+    {
+      "id": "Role_229e1f",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_ee97d9",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_575dc3",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_6beda1",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_e7dc5a",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_705a4e",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Joe_Role",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_b2dd83",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    },
+    {
+      "id": "Role_c366e3",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    },
+    {
+      "id": "Role_9776c7",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_4b7fcf",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_beaadb",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_ee1de0",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_1df899",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_d1c849",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_f4adcf",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_87d1bd",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_9d2b2d",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_4b027c",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_cb11bc",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    },
+    {
+      "id": "Role_2fbf5b",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_2c8069",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_0199ee",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_2450ff",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_ebfafe",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_7cbe55",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    },
+    {
+      "id": "Role_c9fdde",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_b8c4d5",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_3d23f5",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_e0d972",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_e854ed",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Alice_Admin",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_9af00c",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_b93efd",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    },
+    {
+      "id": "Role_5bdd03",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_badfd1",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_a96ee2",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_bdf5b4",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_daafdf",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_a6bc71",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_7c4f47",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    },
+    {
+      "id": "Role_f54eed",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_91b180",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_c955eb",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_e8ddbc",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_4cf2de",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_1b6fed",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_f526e0",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_c2fd4b",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_cb08dc",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_978f8a",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_4a66d2",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_dd66d5",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_b616c5",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_a13cc9",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_dec26d",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_3559f0",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    },
+    {
+      "id": "Role_d60dcf",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_4cad12",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_00ec0c",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_553ffc",
+      "type": "Role",
+      "controlled": false,
+      "critical": false
+    },
+    {
+      "id": "Role_1e5ab1",
+      "type": "Role",
+      "controlled": false,
+      "critical": true
+    }
+  ],
+  "edges": [
+    {
+      "from": "User_88ba2e",
+      "to": "Role_ee97d9",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_9d5fb8",
+      "to": "Role_575dc3",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_f526e0",
+      "to": "Role_6beda1",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_a96ee2",
+      "to": "Role_e7dc5a",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_2c8069",
+      "to": "Role_b2dd83",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_6064a2",
+      "to": "Role_b2dd83",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_9d2b2d",
+      "to": "Role_b2dd83",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_b2dd83",
+      "to": "Role_c366e3",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_cb11bc",
+      "to": "Role_c366e3",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_3559f0",
+      "to": "Role_9776c7",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_a1abd8",
+      "to": "Role_9776c7",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_f1feaa",
+      "to": "Role_4b7fcf",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_553ffc",
+      "to": "Role_beaadb",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_e1e2c6",
+      "to": "Role_beaadb",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_c9fdde",
+      "to": "Role_ee1de0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_eef8af",
+      "to": "Role_ee1de0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_abea09",
+      "to": "Role_1df899",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_e1c2e8",
+      "to": "Role_d1c849",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_e0d972",
+      "to": "Role_f4adcf",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_eef8af",
+      "to": "Role_f4adcf",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Bob",
+      "to": "Role_f4adcf",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_c366e3",
+      "to": "Role_87d1bd",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_bdf5b4",
+      "to": "Role_87d1bd",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_aaadba",
+      "to": "Role_87d1bd",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_aa7cc5",
+      "to": "Role_9d2b2d",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_00ec0c",
+      "to": "Role_9d2b2d",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_4cad12",
+      "to": "Role_4b027c",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_6c6f0c",
+      "to": "Role_4b027c",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_91b180",
+      "to": "Role_cb11bc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_4b027c",
+      "to": "Role_cb11bc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Bob",
+      "to": "Role_cb11bc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_3d23f5",
+      "to": "Role_2c8069",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_bdf5b4",
+      "to": "Role_2c8069",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_dec26d",
+      "to": "Role_0199ee",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_cb11bc",
+      "to": "Role_2450ff",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_4adc3f",
+      "to": "Role_2450ff",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_4cf2de",
+      "to": "Role_2450ff",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_9776c7",
+      "to": "Role_ebfafe",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_beaadb",
+      "to": "Role_ebfafe",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_3ae414",
+      "to": "Role_7cbe55",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_4a66d2",
+      "to": "Role_7cbe55",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_dec26d",
+      "to": "Role_7cbe55",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_705a4e",
+      "to": "Role_7cbe55",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_ecdc9d",
+      "to": "Role_7cbe55",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_c366e3",
+      "to": "Role_c9fdde",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_3559f0",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_c9fdde",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_eea03f",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Bob",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_5bdd03",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_4cad12",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_4b7fcf",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_b2dd83",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_808f0d",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_e7c0ee",
+      "to": "Role_b8c4d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_db8c3c",
+      "to": "Role_3d23f5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_dbd76f",
+      "to": "Role_3d23f5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_2450ff",
+      "to": "Role_3d23f5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_0199ee",
+      "to": "Role_3d23f5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_808f0d",
+      "to": "Role_3d23f5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_f1feaa",
+      "to": "Role_3d23f5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_8be6f4",
+      "to": "Role_e0d972",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_c366e3",
+      "to": "Role_e0d972",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_3559f0",
+      "to": "Role_e0d972",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_1b6fed",
+      "to": "Role_e854ed",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_e1c2e8",
+      "to": "Role_e854ed",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Joe_Role",
+      "to": "Alice_Admin",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_9b0e6a",
+      "to": "Role_9af00c",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_b23fdd",
+      "to": "Role_b93efd",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_ebfafe",
+      "to": "Role_b93efd",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_1213c4",
+      "to": "Role_5bdd03",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_b23fdd",
+      "to": "Role_5bdd03",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_4fbbb1",
+      "to": "Role_5bdd03",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_bcb07c",
+      "to": "Role_5bdd03",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_ee2c81",
+      "to": "Role_badfd1",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_8b014f",
+      "to": "Role_badfd1",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_ac530e",
+      "to": "Role_badfd1",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_e7dc5a",
+      "to": "Role_a96ee2",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_88ba2e",
+      "to": "Role_bdf5b4",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_e1c2e8",
+      "to": "Role_bdf5b4",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_8be6f4",
+      "to": "Role_bdf5b4",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_f54eed",
+      "to": "Role_bdf5b4",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_abea09",
+      "to": "Role_daafdf",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_de9a3d",
+      "to": "Role_a6bc71",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_4cad12",
+      "to": "Role_7c4f47",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_ebaa6c",
+      "to": "Role_91b180",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_4fbbb1",
+      "to": "Role_c955eb",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_575dc3",
+      "to": "Role_e8ddbc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_d60dcf",
+      "to": "Role_4cf2de",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_717edf",
+      "to": "Role_4cf2de",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_b93efd",
+      "to": "Role_1b6fed",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_d60dcf",
+      "to": "Role_f526e0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_eef8af",
+      "to": "Role_f526e0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_4698e3",
+      "to": "Role_f526e0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_1b6fed",
+      "to": "Role_c2fd4b",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_2fbf5b",
+      "to": "Role_c2fd4b",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_9f2881",
+      "to": "Role_cb08dc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_4fbbb1",
+      "to": "Role_cb08dc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_5bdd03",
+      "to": "Role_cb08dc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_9776c7",
+      "to": "Role_cb08dc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_e1c2e8",
+      "to": "Role_cb08dc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_bdf5b4",
+      "to": "Role_cb08dc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_eedea0",
+      "to": "Role_978f8a",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_2450ff",
+      "to": "Role_4a66d2",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_1b6fed",
+      "to": "Role_4a66d2",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_7c4f47",
+      "to": "Role_4a66d2",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_5bdd03",
+      "to": "Role_dd66d5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_1df899",
+      "to": "Role_b616c5",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_beaadb",
+      "to": "Role_a13cc9",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_1df899",
+      "to": "Role_dec26d",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Bob",
+      "to": "Role_dec26d",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_b2dd83",
+      "to": "Role_3559f0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Bob",
+      "to": "Role_3559f0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_b8c4d5",
+      "to": "Role_3559f0",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_9776c7",
+      "to": "Role_d60dcf",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_abea09",
+      "to": "Role_d60dcf",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Bob",
+      "to": "Role_4cad12",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Bob",
+      "to": "Role_00ec0c",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_f4adcf",
+      "to": "Role_553ffc",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_f4adcf",
+      "to": "Role_1e5ab1",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "Role_87d1bd",
+      "to": "Role_1e5ab1",
+      "type": "CAN_ACT_AS"
+    },
+    {
+      "from": "User_e9dec3",
+      "to": "Role_1e5ab1",
+      "type": "CAN_ACT_AS"
+    }
+  ]
+}
